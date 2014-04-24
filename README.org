@@ -1,4 +1,2 @@
-tsjak-overthewire-vortex
-========================
-
+* TSJAK Over The Wire Wargame: Vortex
 Code and guide for the vortex wargame: http://overthewire.org/wargames/vortex/

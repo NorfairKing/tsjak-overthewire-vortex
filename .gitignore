@@ -1,3 +1,7 @@
+# Editor file
+.*.swp
+*~
+
 # Object files
 *.o
 *.ko
